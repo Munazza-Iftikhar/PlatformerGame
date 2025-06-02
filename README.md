@@ -27,7 +27,5 @@ The code is structured using multiple classes:
 
 ---
 
-## **Conclusion**
-
 This project demonstrates my understanding of Java and object-oriented design in game development.  
 It serves as a hands-on example of applying core programming principles in an interactive application.
